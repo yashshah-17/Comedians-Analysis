@@ -1,0 +1,2 @@
+# Comedians' analysis
+This models analyzes what makes a comedian's act funny/popular while comparing it with the acts of fellow comedians. It analyzes and visualizes parameters like most commonly used words, range of vocabulary, amount of swearing, the sentiment at intervals. Topic-modelling using the LDA (a generative statistical model) technique is also performed to know the subject(s) of the stand-up acts.
